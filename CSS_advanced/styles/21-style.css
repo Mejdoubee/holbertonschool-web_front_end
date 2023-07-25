@@ -194,5 +194,5 @@ ul.row {
 
 [class^="col-"] {
 	float: left.;
-	padding: 0.5rem;
+	padding: calc(var(--font-size-small) / 2);
 }
