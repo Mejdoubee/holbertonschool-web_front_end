@@ -193,6 +193,6 @@ ul.row {
 }
 
 [class^="col-"] {
-	float: left.;
-	padding: calc(var(--font-size-small) / 2);
+	float: left;
+	padding: 0.5rem;
 }
