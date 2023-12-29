@@ -1,0 +1,16 @@
+/* Style with Color Variable */
+$color-text: #3D3D3D;
+$background-color: #6D6D6D;
+
+body {
+    color: $color-text;
+    background-color: $background-color;
+}
+
+p {
+    color: $color-text;
+}
+
+h2 {
+    background-color: $background-color;
+}
