@@ -1,0 +1,13 @@
+/* Style with Mixin for Margins */
+@mixin horiztonal-margin($size) {
+	margin-left: $size;
+	margin-right: $size;
+}
+
+body {
+	@include horiztonal-margin(10px);
+}
+
+div {
+	@include horiztonal-margin(15px);
+}
