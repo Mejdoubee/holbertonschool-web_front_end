@@ -1,1 +1,1 @@
-# jQuery advanced .
+# jQuery advanced 
